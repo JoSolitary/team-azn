@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ee30829-052c-4a59-a0ee-626eb834f624" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fph7idLrfPzTqqZXlNPX9IUIvY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee30829-052c-4a59-a0ee-626eb834f624" name="Default Changelist" comment="" />
+      <created>1596920776078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596920776078</updated>
+      <workItem from="1596920777624" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3539" y="670" width="591" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596920793365">
+      <screen x="2560" y="135" width="2560" height="1440" />
+    </state>
+    <state x="3539" y="670" width="591" height="403" key="#com.intellij.fileTypes.FileTypeChooser/2560.135.2560.1440/5120.0.1080.1920/0.162.2560.1413@2560.135.2560.1440" timestamp="1596920793365" />
+    <state x="3639" y="588" width="391" height="568" key="NewPhpClassDialog" timestamp="1596921403725">
+      <screen x="2560" y="135" width="2560" height="1440" />
+    </state>
+    <state x="3639" y="588" width="391" height="568" key="NewPhpClassDialog/2560.135.2560.1440/5120.0.1080.1920/0.162.2560.1413@2560.135.2560.1440" timestamp="1596921403725" />
+    <state x="3635" y="794" width="399" height="156" key="NewPhpFileDialog" timestamp="1596921410251">
+      <screen x="2560" y="135" width="2560" height="1440" />
+    </state>
+    <state x="3635" y="794" width="399" height="156" key="NewPhpFileDialog/2560.135.2560.1440/5120.0.1080.1920/0.162.2560.1413@2560.135.2560.1440" timestamp="1596921410251" />
+    <state x="3504" y="403" key="run.anything.popup" timestamp="1596920779912">
+      <screen x="2560" y="135" width="2560" height="1440" />
+    </state>
+    <state x="3504" y="403" key="run.anything.popup/2560.135.2560.1440/5120.0.1080.1920/0.162.2560.1413@2560.135.2560.1440" timestamp="1596920779912" />
+  </component>
+</project>
